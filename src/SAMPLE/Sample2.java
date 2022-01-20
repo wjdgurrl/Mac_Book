@@ -1,4 +1,4 @@
-package src;
+package SAMPLE;
 //4번 문제
 
 class Calculator2
@@ -30,7 +30,7 @@ public class Sample2
     {
         int[] data = {1,3,5,7};
         Calculator2 cal = new Calculator2();
-        int result = cal.avg(data);
-        System.out.println(result);
+        //int result = cal.avg(data);
+        //System.out.println(result);
     }
 }

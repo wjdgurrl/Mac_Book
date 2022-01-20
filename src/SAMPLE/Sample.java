@@ -1,4 +1,4 @@
-package src;
+package SAMPLE;
 class Calculator // 연습문제 2
 {
     int value;
